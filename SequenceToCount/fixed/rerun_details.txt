@@ -1,0 +1,28 @@
+Rerun details.
+
+
+Failed rerun:
+
+96  Records in Fastq files should start with '@' character
+    120118_NextseqHTP_N716S518_R1.fastq.gz is very small (corrupted file?!?) + unzipping shows nothing useful
+
+    Re-running with this lane removed.
+
+138 Records in Fastq files should start with '@' character
+    120118_NextseqHTP_N726S521_R1.fastq.gz is very small (corrupted file?!?) + unzipping shows nothing useful
+
+    Re-running with this lane removed.
+
+148 OSError: Not a gzipped file (b'\x00\x00')
+    head 120118_NextseqHTP_N728S521_R1.fastq.gz returns nothing... (not in gzip format apparently)
+
+    Re-running with this lane removed.
+
+267     I/o error (sherlock down) - re-running without any changes.
+269     I/o error (sherlock down) - re-running without any changes.
+271     I/o error (sherlock down) - re-running without any changes.
+
+
+Another Rerun...
+
+271     I/o error (sherlock down) - re-running without any changes
