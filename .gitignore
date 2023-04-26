@@ -1,1 +1,4 @@
 *old/*
+*.DS_Store
+*.gitignore
+
